@@ -1,0 +1,9 @@
+{
+  "contest": "Notional contest",
+  "handle": "Omik",
+  "address": "0x30fC9D86149c9241FDd5450748F8CB6734E1fdeF",
+  "risk": "3",
+  "title": "executing instruction outside code can lead to failing transfer",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2021-08-notional-findings/issues/3"
+}
