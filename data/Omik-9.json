@@ -1,0 +1,9 @@
+{
+  "contest": "Notional contest",
+  "handle": "Omik",
+  "address": "0x30fC9D86149c9241FDd5450748F8CB6734E1fdeF",
+  "risk": "G",
+  "title": "Gas optimization on _INT256_MIN ",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2021-08-notional-findings/issues/9"
+}
