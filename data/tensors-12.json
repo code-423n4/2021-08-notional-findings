@@ -1,0 +1,9 @@
+{
+  "contest": "Notional contest",
+  "handle": "tensors",
+  "address": "0x3C86b2B86F0A4B180802026cB1d0d73F80200AB3",
+  "risk": "1",
+  "title": "Flipped boolean or confusing notation on TokenHandler.sol",
+  "issueId": 12,
+  "issueUrl": "https://github.com/code-423n4/2021-08-notional-findings/issues/12"
+}
