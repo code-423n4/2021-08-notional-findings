@@ -1,0 +1,9 @@
+{
+  "contest": "Notional contest",
+  "handle": "leastwood",
+  "address": "0x28235de0121700a462b5098cff7d3615b050551f",
+  "risk": "1",
+  "title": "No Transfer Ownership Pattern",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2021-08-notional-findings/issues/94"
+}
