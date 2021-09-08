@@ -1,0 +1,9 @@
+{
+  "contest": "Notional contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "NoteERC20.getPriorVotes includes current unclaimed incentives",
+  "issueId": 76,
+  "issueUrl": "https://github.com/code-423n4/2021-08-notional-findings/issues/76"
+}
