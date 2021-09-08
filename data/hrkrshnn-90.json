@@ -1,0 +1,9 @@
+{
+  "contest": "Notional contest",
+  "handle": "hrkrshnn",
+  "address": "0x58993cFa67cD6151EC3D806AE93a7Ed365dB2f88",
+  "risk": "0",
+  "title": "Used a fixed or pragma that spans only a single `0.x.*`",
+  "issueId": 90,
+  "issueUrl": "https://github.com/code-423n4/2021-08-notional-findings/issues/90"
+}
