@@ -1,0 +1,9 @@
+{
+  "contest": "Notional contest",
+  "handle": "pauliax",
+  "address": "0x0c4243ca087F4e4738596F33292064e847DA80dA",
+  "risk": "G",
+  "title": "Cache values that are accessed more than once",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2021-08-notional-findings/issues/54"
+}
