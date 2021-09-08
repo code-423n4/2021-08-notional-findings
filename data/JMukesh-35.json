@@ -1,0 +1,9 @@
+{
+  "contest": "Notional contest",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "2",
+  "title": "proposal get defeated even if forVotes == againstVotes in GovernorAlpha.sol",
+  "issueId": 35,
+  "issueUrl": "https://github.com/code-423n4/2021-08-notional-findings/issues/35"
+}
