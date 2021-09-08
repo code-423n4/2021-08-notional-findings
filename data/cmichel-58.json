@@ -1,0 +1,9 @@
+{
+  "contest": "Notional contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "3",
+  "title": "DAO proposals can be executed by anyone due to vulnerable TimelockController",
+  "issueId": 58,
+  "issueUrl": "https://github.com/code-423n4/2021-08-notional-findings/issues/58"
+}
