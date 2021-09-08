@@ -1,0 +1,9 @@
+{
+  "contest": "Notional contest",
+  "handle": "pauliax",
+  "address": "0x0c4243ca087F4e4738596F33292064e847DA80dA",
+  "risk": "G",
+  "title": "uint is always >= 0",
+  "issueId": 53,
+  "issueUrl": "https://github.com/code-423n4/2021-08-notional-findings/issues/53"
+}
