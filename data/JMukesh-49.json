@@ -1,0 +1,9 @@
+{
+  "contest": "Notional contest",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "1",
+  "title": "transferOwnership should be two step process",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2021-08-notional-findings/issues/49"
+}
