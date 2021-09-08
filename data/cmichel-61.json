@@ -1,0 +1,9 @@
+{
+  "contest": "Notional contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "1",
+  "title": "ERC1155Action returns `false` on `supportsInterface` with the real ERC1155 interface",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2021-08-notional-findings/issues/61"
+}
