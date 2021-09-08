@@ -1,0 +1,9 @@
+{
+  "contest": "Notional contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "1",
+  "title": "Liquidator can be liquidatee",
+  "issueId": 86,
+  "issueUrl": "https://github.com/code-423n4/2021-08-notional-findings/issues/86"
+}
