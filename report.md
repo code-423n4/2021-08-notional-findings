@@ -1,3 +1,11 @@
+---
+sponsor: "Notional"
+slug: "2021-08-notional"
+date: "2021-10-01"
+title: "Notional"
+findings: "https://github.com/code-423n4/2021-08-notional-findings/issues"
+contest: 23
+---
 
 # Overview
 
